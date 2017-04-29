@@ -10,6 +10,7 @@ npm-debug.log
 
 vendor/
 node_modules/
+tools/ 
 
 # Laravel 4 specific
 bootstrap/compiled.php
